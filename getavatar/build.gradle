@@ -1,5 +1,5 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.novoda.bintray-release'
+/*apply plugin: 'com.novoda.bintray-release'
 
 publish {
     userOrg = 'appsroxcom'
@@ -9,7 +9,7 @@ publish {
     publishVersion = '1.1.0'
     desc = 'GetAvataaars library for Android'
     website = 'https://github.com/appsroxcom/GetAvataaars'
-}
+}*/
 
 android {
     compileSdkVersion 30
