@@ -4,9 +4,14 @@ Easily add avatar picker dialog in your Android application.
 <img src="art/screenshot1.png" width=200/>
 
 ## Setup
-
+In project-level build.gradle:
 ```
-implementation 'com.appsrox:getavatar:1.1.0'
+maven { url 'https://jitpack.io' }
+```
+
+In app-level build.gradle:
+```
+implementation 'com.github.appsroxcom:GetAvataaars:v1.1.0'
 ```
 
 ## Usage
